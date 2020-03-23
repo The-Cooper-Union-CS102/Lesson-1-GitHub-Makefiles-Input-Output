@@ -6,5 +6,3 @@ greet.sh: greet_word.txt
 
 clean:
 	rm greet.sh
-
-.PHONY: clean build
